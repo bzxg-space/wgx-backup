@@ -1,2 +1,2 @@
-# wgx-backup
+# wgz-backup
 > [jqhome](https://bzxg-space.github.io/)
